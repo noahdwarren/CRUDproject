@@ -19,7 +19,7 @@ class Player {
 
 class PartyService {
     static url =
-      "https://62002bec5e1c4100174f70a9.mockapi.io/:endpoint";
+      "https://crudcrud.com/api/178d39440f784e49989da53133114698";
   
     static getAllParties() {
       return $.get(this.url);
